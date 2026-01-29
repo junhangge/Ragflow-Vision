@@ -35,11 +35,9 @@ MAX_UPLOAD_MB=80
 APP_ENV=prod
 BACKEND_HOST=0.0.0.0
 BACKEND_PORT=8000
-
-# 填写 DeepSeek/OpenAI key
-docker compose up -d --build
 ```
-
+# 运行，进入文件夹下cmd：
+docker compose up -d --build
 - Web UI: http://localhost:8080  
 - Backend: http://localhost:8000/api/health
 
