@@ -3,10 +3,10 @@
 一个接近 ragflow 交付形态的本地可部署 RAG 系统（多知识库、上传/索引、流式聊天、引用来源、图片理解）。
 
 ## 1) 一键部署
-```bash
-（首先需要下载ollama，minicpm-v:8b，用于多模态功能。）
+（首先需要下载ollama，minicpm-v:8b，用于多模态图片理解。）
 
 创建.env：
+```bash
 # ================== DeepSeek (Chat) ==================
 DEEPSEEK_API_KEY=你的apikey
 # OpenAI-compatible base URL. Common options:
