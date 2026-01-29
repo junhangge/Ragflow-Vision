@@ -53,4 +53,6 @@ docker compose up -d --build
 - **启动报 401/403**：检查 `.env` 的 key 与 base url/model 是否正确
 - **扫描版 PDF 无法抽取文本**：会提示“无文本层”，需要 OCR 后再上传
 - **想用本地 Embeddings**：将 `EMBEDDINGS_PROVIDER=local`，首次会下载模型（耗时/占空间）
+
+## 西北农林科技大学 葛峻杭
   
