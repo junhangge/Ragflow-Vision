@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.4
+pydantic-settings==2.7.0
+python-multipart==0.0.20
+httpx==0.28.1
+openai==1.59.6
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+filelock==3.16.1
+orjson==3.10.12
+pypdf==5.1.0
+python-docx==1.1.2
+markdown==3.7
+fastembed==0.7.4
+sentence-transformers==2.7.0
